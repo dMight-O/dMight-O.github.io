@@ -1,0 +1,182 @@
+*
+{
+    font-family: "Courier New", monospace;
+}
+
+h1
+{
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+    border-bottom: 5px solid rgb(98, 226, 43);
+
+}
+
+html, body
+{
+    color: honeydew;
+    background-color: rgb(12,12,12);
+    margin: 0px; padding: 0px;
+}
+
+.zero
+{
+  display: inline-block;
+  height: fit-content; width: fit-content;
+
+}
+
+#zeroprime
+{
+    display: inline-block;
+    height: fit-content; width: fit-content;
+    margin-left: -20%;
+}
+
+.one
+{
+    position: relative;
+    left : 1100px;
+    bottom : 20px;
+}
+
+#nom
+{
+    font-size: 40px;
+}
+
+.icon
+{
+    color : rgb(98, 226, 43);
+}
+
+li
+{
+    list-style: square;
+}
+
+#presentation
+{
+    font-style: italic;
+    font-size: large;
+}
+
+h2
+{
+    color: rgb(255, 102, 0);
+}
+
+.endroit
+{
+    border-top: 2px dotted rgb(191, 191, 191);
+}
+
+h3
+{
+    color: rgb(128, 128, 128);
+}
+
+.retour
+{   
+    margin-top: 5%;
+}
+
+
+
+a.spelink
+{
+    height: 60px;
+}
+a.spelink:link
+{
+    font-size: 30px;
+    color: azure;
+    text-decoration: none;
+}
+
+a.spelink:visited
+{
+    font-size: 30px;
+    color: rgb(43, 41, 41);
+    text-decoration: none;
+}
+
+a.spelink:hover
+{
+    border-left: 2px solid rgb(98, 226, 43);
+    padding-left: 15px;
+}
+
+.retour>a
+{
+    font-size: 25px;
+    color: azure;
+    text-decoration-line: none;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.retour>a:hover
+{
+    color: azure;
+    border-bottom: 2px solid rgb(98, 226, 43);
+}
+
+#jamais>*
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+}
+
+#jamais>video
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height:450; width: 600px;
+}
+
+#jamais>p
+{   
+    height: fit-content;
+    width: fit-content;
+}
+
+.portal
+{
+    display: inline-flex;
+    height: 400px;
+    width: 45%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    filter: blur(10px);
+}
+
+.portal:hover
+{
+    filter: blur(0px);
+}
+.pleft
+{
+    display: inline-flex;
+    margin-left: 3%;
+}
+.pleft
+{
+    display: inline-flex;
+    margin-right: 3%;
+}
+
+.portal:hover
+{
+    filter: blur(0px);
+}
+
+#mail
+{
+    color: azure;
+    text-decoration: none;
+}
+
