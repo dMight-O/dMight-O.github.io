@@ -13,7 +13,7 @@ h1
 
 html, body
 {
-    color: honeydew;
+    color: rgb(240,255,240);
     background-color: rgb(12,12,12);
     margin: 0px; padding: 0px;
 }
@@ -89,7 +89,7 @@ a.spelink
 a.spelink:link
 {
     font-size: 30px;
-    color: azure;
+    color: rgb(240,255,255);
     text-decoration: none;
 }
 
@@ -109,7 +109,7 @@ a.spelink:hover
 .retour>a
 {
     font-size: 25px;
-    color: azure;
+    color: rgb(240,255,255);
     text-decoration-line: none;
     margin-left: 2%;
     margin-right: 2%;
@@ -117,7 +117,7 @@ a.spelink:hover
 
 .retour>a:hover
 {
-    color: azure;
+    color: rgb(240,255,255);
     border-bottom: 2px solid rgb(98, 226, 43);
 }
 
@@ -176,7 +176,7 @@ a.spelink:hover
 
 #mail
 {
-    color: azure;
+    color: rgb(240,255,255);
     text-decoration: none;
 }
 
